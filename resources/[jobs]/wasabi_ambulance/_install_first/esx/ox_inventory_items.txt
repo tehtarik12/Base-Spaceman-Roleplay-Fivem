@@ -1,0 +1,75 @@
+		['medikit'] = { -- Make sure not already a medikit
+			label = 'Medikit',
+			weight = 165,
+			stack = true,
+			close = true,
+		},
+		['medbag'] = {
+			label = 'Medical Bag',
+			weight = 165,
+			stack = false,
+			close = true,
+		},
+	
+		['tweezers'] = {
+			label = 'Tweezers',
+			weight = 2,
+			stack = true,
+			close = true,
+		},
+	
+		['suturekit'] = {
+			label = 'Suture Kit',
+			weight = 15,
+			stack = true,
+			close = true,
+		},
+	
+		['icepack'] = {
+			label = 'Ice Pack',
+			weight = 29,
+			stack = true,
+			close = true,
+		},
+	
+		['burncream'] = {
+			label = 'Burn Cream',
+			weight = 19,
+			stack = true,
+			close = true,
+		},
+	
+		['defib'] = {
+			label = 'Defibrillator',
+			weight = 225,
+			stack = false,
+			close = true,
+		},
+	
+		['sedative'] = {
+			label = 'Sedative',
+			weight = 15,
+			stack = true,
+			close = true,
+		},
+	
+		['stretcher'] = {
+			label = 'Stretcher',
+			weight = 650,
+			stack = false,
+			close = true,
+		},
+	
+		['wheelchair'] = {
+			label = 'Wheel Chair',
+			weight = 650,
+			stack = false,
+			close = true,
+		},
+	
+		['recoveredbullet'] = {
+			label = 'Recovered Bullet',
+			weight = 1,
+			stack = true,
+			close = false,
+		},

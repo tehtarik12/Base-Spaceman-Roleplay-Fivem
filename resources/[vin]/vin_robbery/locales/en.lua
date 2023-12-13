@@ -1,0 +1,16 @@
+Locales['en'] = {
+  ['shop_robbery'] = 'Perampokan Warung',
+  ['press_to_rob'] = 'Tekan ~INPUT_CONTEXT~ Untuk Merampok Warung %s',
+  ['robbery_timer'] = 'STORE ROBBERY: ~r~%s~s~ SECONDS REMAINING',
+  ['recently_robbed'] = 'Warung Ini Baru Saja Di Rampok. Harap Tunggu %s Detik Hingga Kamu Dapat Merampok Lagi',
+  ['rob_in_prog'] = 'Perampokan Sedang Berlangsung Di Warung %s',
+  ['started_to_rob'] = 'Kamu Mulai Merampok Warung %s',
+  ['alarm_triggered'] = 'Alarm Telah Dipicu',
+  ['robbery_complete'] = 'Perampokan Berhasil, Kamu Mendapatkan $%s',
+  ['robbery_complete_at'] = 'Perampokan Berhasil Di Warung %s',
+  ['robbery_cancelled'] = 'Perampokan Telah Dibatalkan!',
+  ['robbery_cancelled_at'] = 'Perampokan Di Warung %s Telah Dibatalkan!',
+  ['min_police'] = 'Minimal %s Polisi Untuk Merampok.',
+  ['robbery_already'] = 'Perampokan Sedang Berlangsung.',
+  ['no_threat'] = 'Kamu Tidak Menimbulkan Ancaman',
+}

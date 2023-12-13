@@ -1,0 +1,37 @@
+RegisterServerEvent('cmg3_animations:sync')
+AddEventHandler('cmg3_animations:sync', function(target, animationLib, animationLib2, animation, animation2, distans, distans2, height, length, spin, controlFlagSrc, controlFlagTarget, animFlagTarget, attachFlag)
+	TriggerClientEvent('cmg3_animations:syncTarget', target, source, animationLib2, animation2, distans, distans2, height, length, spin, controlFlagTarget, animFlagTarget, attachFlag)
+	TriggerClientEvent('cmg3_animations:syncMe', source, animationLib, animation, length, controlFlagSrc, animFlagTarget)
+end)
+
+RegisterServerEvent('cmg3_animations:stop')
+AddEventHandler('cmg3_animations:stop', function(targetSrc)
+	TriggerClientEvent('cmg3_animations:cl_stop', targetSrc)
+end)
+
+RegisterServerEvent('CarryPeople:sync')
+AddEventHandler('CarryPeople:sync', function(target, animationLib, animationLib2, animation, animation2, distans, distans2, height, length, spin, controlFlagSrc, controlFlagTarget, animFlagTarget)
+	TriggerClientEvent('CarryPeople:syncTarget', target, source, animationLib2, animation2, distans, distans2, height, length,spin,controlFlagTarget,animFlagTarget)
+	TriggerClientEvent('CarryPeople:syncMe', source, animationLib, animation,length,controlFlagSrc,animFlagTarget)
+end)
+
+RegisterServerEvent('CarryPeople:stop')
+AddEventHandler('CarryPeople:stop', function(targetSrc)
+	TriggerClientEvent('CarryPeople:cl_stop', targetSrc)
+end)
+
+RegisterServerEvent('cmg2_animations:sync')
+AddEventHandler('cmg2_animations:sync', function(target, animationLib, animation, distans, distans2, height, length, spin, controlFlagSrc, controlFlagTarget, animFlagTarget)
+	TriggerClientEvent('cmg2_animations:syncTarget', target, source, 'timetable@ron@ig_3_couch', 'base', distans, distans2, height, length,spin,controlFlagTarget,animFlagTarget)
+	TriggerClientEvent('cmg2_animations:syncMe', source, animationLib, animation,length,controlFlagSrc,animFlagTarget)
+end)
+
+RegisterServerEvent('cmg2_animations:stop')
+AddEventHandler('cmg2_animations:stop', function(targetSrc)
+	TriggerClientEvent('cmg2_animations:cl_stop', targetSrc)
+end)
+
+RegisterServerEvent('essentials:tackle')
+AddEventHandler('essentials:tackle', function(target)
+	TriggerClientEvent("essentials:tackled", target)
+end)

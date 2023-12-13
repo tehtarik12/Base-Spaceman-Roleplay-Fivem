@@ -1,0 +1,60 @@
+{
+    "locals": "en",
+
+    "EnableAcFunctions": true,
+
+    "allLogs": true,
+    "postals": true,
+    "weaponLog": true,
+    "inlineField": true,
+
+    "playerId": true,
+    "steamId": true,
+    "steamUrl": true,
+    "discordId": true,
+    "license": true,
+    "license2": true,
+    "ip": true,
+    "playerPing": true,
+
+    "Session": true,
+    "PlayTime": true,
+    "playerHealth": true,
+    "playerArmor": true,
+    "timestamp": true,
+
+    "forceSteam": true,
+
+    "nameChangePerms": "jd.staff",
+    "logHistoryPerms": "jd.staff",
+    "screenshotPerms": "jd.staff",
+    "AntiCheatBypass": "jd.staff",
+
+    "DiscordUpdateNotify": true,
+
+    "userName": "SPACEMAN",
+    "avatar": "https://media.discordapp.net/attachments/1084925098034737172/1084927976262619248/HP_SPACEMAN.png",
+    "communityName": "SPACEMAN",
+    "communityLogo": "https://media.discordapp.net/attachments/1084925098034737172/1084927976262619248/HP_SPACEMAN.png",
+    "footerText": "2020 - 2021 © Prefech",
+    "footerIcon": "https://via.placeholder.com/30x30",
+
+    "PrefechGlobalBans": false,
+    "GlobalBanBypass": [],
+
+    "WeaponsNotLogged": [
+        "WEAPON_SNOWBALL",
+        "WEAPON_FIREEXTINGUISHER",
+        "WEAPON_PETROLCAN"
+    ],
+
+    "Commands": {
+        "logs": ["logs", "lh"],
+        "screenshot": ["screenshot", "ss"]
+    },
+
+    "useESX": true,
+    "esxName": true,
+    "esxJob": true,
+    "esxMoney": true
+}

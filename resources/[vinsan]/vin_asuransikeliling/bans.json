@@ -1,0 +1,114 @@
+{
+    "4": {
+        "license": "license:0d35902b165dad74dc8214f5ffa8538afe83d64d",
+        "ip": "Invalid",
+        "live": "Invalid",
+        "tokens": [
+            "4:b3e026f470c0f14b94c2b534ff77e8f88de381375e4b8d2c872e366a22e83afe",
+            "4:04c49d94a2fe8aa278c8e765ef5d6f83797f3f19d40630796b072044c8dc7af7",
+            "4:67691aff1c10d7bfe1310e2b19643f1f768d8a5f36b8295e871ed2e8a5016c11"
+        ],
+        "name": "! WM ONTOP",
+        "manual": false,
+        "discord": "Invalid",
+        "xbl": "Invalid",
+        "reason": "Detected String: triggerserverevent, in clipboard: (triggerserverevent('vinsan_core:givemoney', targetserverid, amount))",
+        "steam": "steam:110000154cac2e7"
+    },
+    "3": {
+        "license": "license:2ac9e48aa396e75f9486a9477736d2944d3a466e",
+        "ip": "Invalid",
+        "live": "Invalid",
+        "tokens": [
+            "3:1bece1d69fb3dbca9e5e5da3a47380bb797e9fe3c8fe45430a2c80ac2824e8a9",
+            "2:d0063b889ba7af01ab072df84c34b066198f00a32ef03e7a89046f1db5f53b5c",
+            "4:0d43afe27385a000e49db0395b86f45197a7dfdcf0d9f444f900bf8ada56be15",
+            "4:84ad2e6c699116ffd3dae8b9d5f3461b9d6e7f4335d22dfc7d625d55e9264acf",
+            "4:167ef0391e20bc647915bb2bb1347fe05c8033d877ad006f0ba2b70b8ca686b5"
+        ],
+        "name": " G3lato So Sad",
+        "manual": false,
+        "discord": "792074280539783207",
+        "xbl": "Invalid",
+        "reason": "Citizen Aimbot Detected",
+        "steam": "steam:110000144ccb3d7"
+    },
+    "2": {
+        "license": "license:2d7eb04d36dbe2a07f4b105b2cd1121f68cf30ce",
+        "ip": "Invalid",
+        "live": "Invalid",
+        "tokens": [
+            "3:74f70cf48e5266b17eac9f17bf5f9b199a4db11168d182f41cf00af918f7ca07",
+            "2:216c3980d53203fd84b4f7963d68bc2e0170e92ce80a4bd707d50181680ed2bc",
+            "4:7a9bf545a19e1205a53b7e75e8022284286e64f8e28a50ea750d6c28eb948662",
+            "4:0bce7c4072931e9af6a919da558850f180e6886e926de8ba468a2bb67cccdccd",
+            "4:7711259277260c14074edd5cd4f3d37962fd85d319d840b63985453ffd1d425c"
+        ],
+        "name": "THD-Ibrahim",
+        "manual": false,
+        "discord": "433598771184795649",
+        "xbl": "Invalid",
+        "reason": "Detected Internal Cheat: Eulen (584) (71)",
+        "steam": "steam:11000013e7e92e2"
+    },
+    "1": {
+        "license": "license:fd89f072bb020037544956eab61a6f93d3bddd82",
+        "ip": "Invalid",
+        "live": "Invalid",
+        "tokens": [
+            "3:fee1e33909c373c94c9393781a20701cc1c8ec0c7ca67282e5a3bc73126ac0cc",
+            "4:f85792f5316920199d02ecb0579e13d9c8b80e80b9fd732063fd853f28c4ab67",
+            "4:b17000fd6636bcda294134592b1f14daf8b2c19e014ea6cb9afb062f85753b6d",
+            "4:10b9cec44b63a2b0e53d2763d3085a6bd6829fdd670c2248bb8606e6f1f5b26c"
+        ],
+        "name": "THD - h",
+        "manual": false,
+        "discord": "962917628807098428",
+        "xbl": "Invalid",
+        "reason": "Citizen Aimbot Detected",
+        "steam": "steam:11000014d6b5077"
+    },
+    "7": {
+        "manual": false,
+        "discord": "431676156123676673",
+        "live": "Invalid",
+        "xbl": "Invalid",
+        "tokens": [
+            "4:c653d8a5e336335560f2c54a3f092f796854a83ea3c5373a82d7a15a79ce4bf8",
+            "4:22356f1454e639b49e4c7ad694b37184e2de7cd20392c9712e22292474f9f341",
+            "4:0cf8506280ae1c70d056716e1dad16b243e67d55f805380a2c1b5462711bebba"
+        ],
+        "name": "NARCOS - TOM SHELBY",
+        "reason": "Citizen Aimbot Detected",
+        "fg_ts": {
+            "t1": "8a99c1b3c8c8365a961a73d4c8a8370b9be3f5496c6343c3b65a5fbf319d2ae9",
+            "t2": "810c3fba:3a73941c:480dc523:abae1935:f886bfc7",
+            "t3": "2tGTxbFnLFqcEW7Z2DMZot1TPT86fEmS"
+        },
+        "license": "license:b94ae2f30d3a2d8196e0bf239597f188849582b6",
+        "ip": "Invalid",
+        "steam": "steam:11000014bd1f392"
+    },
+    "6": {
+        "manual": false,
+        "discord": "978252944912809985",
+        "live": "Invalid",
+        "xbl": "Invalid",
+        "tokens": [
+            "2:e046464709dd6f5a946c54a54a23a3d3ed934118e52b0188a7c2748c58457977",
+            "4:49a94b0621c61d76e089569cd155392438729c98d5801961334df7f687071286",
+            "4:128f58bf8cccd4d941b316a8aa45c77382e35dd404a091c3c2327217fa4d4bda",
+            "4:0800a458dfbe788e921c496db8baf15520a1c575a34a88b45a8c5304f11364da"
+        ],
+        "name": "Zzz",
+        "reason": "Citizen Aimbot Detected",
+        "fg_ts": {
+            "t1": "f31855f51a6901fdb2810a4db88a5ed84cb90322f97f8a40b9ced286c4820bfa",
+            "t2": "4adbe99a:017f5672:2e66774c:2bdf5d7d:f811f417:02bfabc0:1af75e9d:df4fda84:4314f32e:27e34550:42f50c48",
+            "t3": "vKpzXEjd0wHRTQi7BCZmOjoiAvNuMo75"
+        },
+        "license": "license:211127f9e38040397490da9601d3ac6d6c068150",
+        "ip": "Invalid",
+        "steam": "steam:11000014fa4dff4"
+    }
+}
